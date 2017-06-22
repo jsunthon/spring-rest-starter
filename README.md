@@ -6,6 +6,7 @@
 * Spring Home: https://docs.spring.io/spring/docs/current/spring-framework-reference/html/index.html
 * Spring MVC: https://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html
 * Spring.io Starter Guides: https://spring.io/guides/
+* Spring REST API (In-depth): https://spring.io/guides/tutorials/bookmarks/
 
 ## Build jar and deploy it
 * `mvn clean package`
@@ -13,3 +14,9 @@
 
 ## Shortcut way to deploy
 * `mvn spring-boot:run`
+
+## Mysql
+* Execute script form terminal: `mysql -u root path-to-script`
+
+## REST API Design
+* https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9
